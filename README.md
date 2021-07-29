@@ -20,15 +20,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167542%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164006%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-🌆 Daytime    28 commits     ███████░░░░░░░░░░░░░░░░░░   30.11% 
-🌃 Evening    29 commits     ███████░░░░░░░░░░░░░░░░░░   31.18% 
-🌙 Night      30 commits     ████████░░░░░░░░░░░░░░░░░   32.26%
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+🌆 Daytime    28 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
+🌃 Evening    29 commits     ███████░░░░░░░░░░░░░░░░░░   29.0% 
+🌙 Night      37 commits     █████████░░░░░░░░░░░░░░░░   37.0%
 
 ```
 
@@ -67,5 +67,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
