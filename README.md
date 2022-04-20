@@ -20,7 +20,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162%20Thousand%20lines%20of%20code-blue)
 
@@ -69,5 +69,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 19:17:17 UTC
+ Last Updated on 20/04/2022 19:20:23 UTC
 <!--END_SECTION:waka-->
