@@ -20,6 +20,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2017%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -39,17 +41,13 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 12 mins        ████████████░░░░░░░░░░░░░   49.92% 
-Python                   1 hr 8 mins         ███████████░░░░░░░░░░░░░░   47.2% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -66,5 +64,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2022 18:48:11 UTC
+ Last Updated on 28/04/2022 18:51:25 UTC
 <!--END_SECTION:waka-->
