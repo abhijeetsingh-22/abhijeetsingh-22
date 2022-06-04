@@ -20,7 +20,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162%20Thousand%20lines%20of%20code-blue)
 
@@ -41,14 +41,16 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 mins              ███████████████████████░░   91.63% 
-Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
+C++                      21 mins             █████████████░░░░░░░░░░░░   54.63% 
+JSON                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   26.65% 
+Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +67,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2022 18:42:35 UTC
+ Last Updated on 04/06/2022 18:45:18 UTC
 <!--END_SECTION:waka-->
