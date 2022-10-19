@@ -41,13 +41,14 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      50 mins             ████████████████████████░   95.5% 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -64,5 +65,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2022 19:05:56 UTC
+ Last Updated on 19/10/2022 19:08:51 UTC
 <!--END_SECTION:waka-->
