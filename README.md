@@ -41,14 +41,13 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     4 mins              ████████████████████████░   97.89% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,5 +64,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2023 18:40:05 UTC
+ Last Updated on 26/01/2023 18:42:44 UTC
 <!--END_SECTION:waka-->
