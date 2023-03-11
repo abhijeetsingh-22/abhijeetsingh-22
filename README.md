@@ -20,9 +20,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -40,17 +40,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 59 mins       ███████████████████████░░   90.70 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+HTML                     1 hr 27 mins        █████████████░░░░░░░░░░░░   50.71 % 
+JavaScript               52 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
+XML                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs 23 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,5 +66,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:37:45 UTC
+ Last Updated on 11/03/2023 18:35:50 UTC
 <!--END_SECTION:waka-->
