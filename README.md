@@ -40,14 +40,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 min               ███████████████████░░░░░░   74.41 % 
-JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +62,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2023 18:48:53 UTC
+ Last Updated on 14/10/2023 19:02:42 UTC
 <!--END_SECTION:waka-->
