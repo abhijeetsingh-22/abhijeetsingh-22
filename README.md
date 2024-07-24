@@ -20,7 +20,34 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2033%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌆 Daytime                3374 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
+🌃 Evening                2316 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌙 Night                  621 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -35,5 +62,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:58:37 UTC
+ Last Updated on 24/07/2024 19:18:17 UTC
 <!--END_SECTION:waka-->
