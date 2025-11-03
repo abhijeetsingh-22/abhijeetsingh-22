@@ -19,15 +19,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.5%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2033%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.4%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29485 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-🌆 Daytime                127564 commits      █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌃 Evening                145515 commits      ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  46910 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌞 Morning                28993 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌆 Daytime                127072 commits      █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌃 Evening                144040 commits      ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌙 Night                  46416 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 
 
@@ -59,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 19:47:26 UTC
+ Last Updated on 03/11/2025 20:40:50 UTC
 <!--END_SECTION:waka-->
