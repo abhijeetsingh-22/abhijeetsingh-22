@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-141.59%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                40052 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌆 Daytime                173524 commits      █████████░░░░░░░░░░░░░░░░   36.28 % 
+🌃 Evening                197646 commits      ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌙 Night                  67077 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -48,12 +48,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               18 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 31/01/2026 17:08:47 UTC
+ Last Updated on 31/01/2026 18:00:45 UTC
 <!--END_SECTION:waka-->
