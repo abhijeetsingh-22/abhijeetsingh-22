@@ -19,17 +19,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2053%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌆 Daytime                1665 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
+🌃 Evening                1713 commits        ██████████░░░░░░░░░░░░░░░   41.84 % 
+🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
 
@@ -48,12 +46,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               18 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 01/02/2026 18:12:31 UTC
+ Last Updated on 01/02/2026 19:00:41 UTC
 <!--END_SECTION:waka-->
