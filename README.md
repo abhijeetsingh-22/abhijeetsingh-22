@@ -14,6 +14,3 @@
 - 💬 Ask me about -Anything related to web / mobile development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amabhijeet/)
 
-### &#128200; My Coding Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh-22&count_private=true&show_icons=true&theme=default&hide=stars" />
