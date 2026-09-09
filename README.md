@@ -5,8 +5,6 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-![](https://komarev.com/ghpvc/?username=abhijeetsingh-22)
-
 <h3>About Me </h3>
 
 <!-- - 🔭 I’m currently working on - My engineering Capstone Project -->
